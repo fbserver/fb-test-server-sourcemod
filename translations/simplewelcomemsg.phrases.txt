@@ -5,7 +5,7 @@
 	"WelcomeMsg1"
 	{
 		"#format"	"{1:N}"
-		"en"		"{lightgreen}{1}! {green}님 FB 서버에 오신것을 환영 합니다."
+		"en"		"{lightgreen}{1}! {olive}님 FB 서버에 오신것을 환영 합니다."
 	}
 	
 	"WelcomeMsg2"
