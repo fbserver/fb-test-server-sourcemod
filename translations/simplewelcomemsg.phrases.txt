@@ -145,11 +145,6 @@
 		"en"		"Set the maximum number of lines for Insurgency mod."
 	}
 	
-	"L4D"
-	{
-		"en"		"Set the maximum number of lines for Left 4 Dead."
-	}
-		
 	"Other"
 	{
 		"en"		"Set the maximum number of lines of."
