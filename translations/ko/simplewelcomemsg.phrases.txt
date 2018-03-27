@@ -1,0 +1,187 @@
+"Phrases"
+{
+	//Chat Messages
+	//Color list: http://forums.alliedmods.net/showthread.php?t=96831
+	"WelcomeMsg1"
+	{
+		"#format"	"{1:N}"
+		"ko"		"{green}반갑습니다. {olive}{1}! {lightgreen}Don't be shy! Say {green}반갑습니다. {lightgreen}to other players."
+		"pl"		"{green}Witaj {olive}{1}! {lightgreen}Nie wstydź się! {green}Przywitaj {lightgreen}się z resztą graczy."
+	}
+	
+	"WelcomeMsg2"
+	{
+		"ko"		"{green}Example Line {lightgreen}2"
+		"pl"		"{green}Przykładowa Linia {lightgreen}2"
+	}
+	
+	"WelcomeMsg3"
+	{
+		"ko"		"{green}Example Line {lightgreen}3"
+		"pl"		"{green}Przykładowa Linia {lightgreen}3"
+	}
+	
+	"WelcomeMsg4"
+	{
+		"ko"		"{green}Example Line {lightgreen}4"
+		"pl"		"{green}Przykładowa Linia {lightgreen}4"
+	}
+	
+	"WelcomeMsg5"
+	{
+		"ko"		"{green}Example Line {lightgreen}5"
+		"pl"		"{green}Przykładowa Linia {lightgreen}5"
+	}
+	
+	"WelcomeMsg6"
+	{
+		"ko"		"{green}Example Line {lightgreen}6"
+		"pl"		"{green}Przykładowa Linia {lightgreen}6"
+	}
+	
+	"WelcomeMsg7"
+	{
+		"ko"		"{green}Example Line {lightgreen}7"
+		"pl"		"{green}Przykładowa Linia {lightgreen}7"
+	}
+	
+	"WelcomeMsg8"
+	{
+		"ko"		"{green}Example Line {lightgreen}8"
+		"pl"		"{green}Przykładowa Linia {lightgreen}8"
+	}
+	
+	//Panel Messages
+	"PanelTitle"
+	{
+		"ko"		"Welcome!"
+		"pl"		"Witaj!"
+	}
+	
+	"PanelClose"
+	{
+		"ko"		"0. Close"
+		"pl"		"0. Zamknij"
+	}
+	
+	"PanelLine1"
+	{
+		"ko"		"Welcome on our server! GL&HF!"
+		"pl"		"Witaj na naszym serwerze! GL&HF!"
+	}
+	
+	"PanelLine2"
+	{
+		"ko"		"Example Line 2"
+		"pl"		"Przykładowa Linia 2"
+	}
+	
+	"PanelLine3"
+	{
+		"ko"		"Example Line 3"
+		"pl"		"Przykładowa Linia 3"
+	}
+	
+	"PanelLine4"
+	{
+		"ko"		"Example Line 4"
+		"pl"		"Przykładowa Linia 4"
+	}
+	
+	"PanelLine5"
+	{
+		"ko"		"Example Line 5"
+		"pl"		"Przykładowa Linia 5"
+	}
+	
+	"PanelLine6"
+	{
+		"ko"		"Example Line 6"
+		"pl"		"Przykładowa Linia 6"
+	}
+	
+	"PanelLine7"
+	{
+		"ko"		"Example Line 7"
+		"pl"		"Przykładowa Linia 7"
+	}
+	
+	"PanelLine8"
+	{
+		"ko"		"Example Line 8"
+		"pl"		"Przykładowa Linia 8"
+	}
+	
+	"PanelLine9"
+	{
+		"ko"		"Example Line 9"
+		"pl"		"Przykładowa Linia 9"
+	}
+	
+	"PanelLine10"
+	{
+		"ko"		"Example Line 10"
+		"pl"		"Przykładowa Linia 10"
+	}
+	
+	"PanelLine11"
+	{
+		"ko"		"Example Line 11"
+		"pl"		"Przykładowa Linia 11"
+	}
+	
+	"PanelLine12"
+	{
+		"ko"		"Example Line 12"
+		"pl"		"Przykładowa Linia 12"
+	}
+	
+	"PanelLine13"
+	{
+		"ko"		"Example Line 13"
+		"pl"		"Przykładowa Linia 13"
+	}
+	
+	"PanelLine14"
+	{
+		"ko"		"Example Line 14"
+		"pl"		"Przykładowa Linia 14"
+	}
+	
+	"PanelLine15"
+	{
+		"ko"		"Example Line 15"
+		"pl"		"Przykładowa Linia 15"
+	}
+	
+	"PanelLine16"
+	{
+		"ko"		"Example Line 16"
+		"pl"		"Przykładowa Linia 16"
+	}
+	//Hint Message
+	"HintMessage"
+	{
+		"ko"		"Welcome on our server! GL and HF!"
+		"pl"		"Witaj na naszym serwerze! GL and HF!"
+	}
+	
+	//Mod Detection
+	"Insurgency"
+	{
+		"ko"		"Set the maximum number of lines for Insurgency mod."
+		"pl"		"Ustawiono maksymalną liczbę linii dla Insurgency."
+	}
+	
+	"L4D"
+	{
+		"ko"		"Set the maximum number of lines for Left 4 Dead."
+		"pl"		"Ustawiono maksymalną liczbę linii dla Left 4 Dead."
+	}
+		
+	"Other"
+	{
+		"ko"		"Set the maximum number of lines of."
+		"pl"		"Ustawiono maksymalną liczbę linii."
+	}
+}
